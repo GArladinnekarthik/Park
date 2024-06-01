@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1084056746305",
+    "firebase_url": "https://parked-3ea74-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "parked-3ea74",
+    "storage_bucket": "parked-3ea74.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1084056746305:android:797b473c93d0187ce9c9c0",
+        "android_client_info": {
+          "package_name": "com.example.admin_panel"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApJyFiW3YhI9D49EbDCSwgt3XgZ9VotRM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
